@@ -43,7 +43,10 @@ const about = () => {
               <li>
                 AR2 Informática (2020 - 2023): Segurança de redes, virtualização
                 com Proxmox e desenvolvimento do{' '}
-                <a href='https://github.com/henriquejunqueira/project-javafx-labmanagement'>
+                <a
+                  target='_blank'
+                  href='https://github.com/henriquejunqueira/project-javafx-labmanagement'
+                >
                   LabManager
                 </a>{' '}
                 para gerenciar OS's.
@@ -53,7 +56,10 @@ const about = () => {
               Além disso, finalizei recentemente um e-commerce completo como
               projeto final do curso de Desenvolvimento FullStack pela +praTI e
               Codifica Edu. Confira o repositório no GitHub:{' '}
-              <a href='https://github.com/Projeto-Final-MaisPraTi'>
+              <a
+                target='_blank'
+                href='https://github.com/Projeto-Final-MaisPraTi'
+              >
                 Projeto Final - E-commerce
               </a>
             </p>
