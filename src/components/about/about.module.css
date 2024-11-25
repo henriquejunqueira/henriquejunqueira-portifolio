@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#caixa {
+  margin-top: 2rem;
+}
+
+.imgPerfil {
+  width: 150px;
+  border-radius: 100%;
+}
+
+.sessao {
+  border: 2px solid #fffafa; /* Define uma borda sólida na cor desejada */
+  background-color: transparent; /* Garante que o fundo seja transparente */
+  padding: 28px; /* Ajusta o espaçamento interno, se necessário */
+  box-sizing: border-box; /* Inclui bordas no cálculo de largura/altura */
+  border-radius: 2%;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.sessaoDetalhes {
+  border: 2px solid #fffafa; /* Define uma borda sólida na cor desejada */
+  background-color: transparent; /* Garante que o fundo seja transparente */
+  padding: 50px; /* Ajusta o espaçamento interno, se necessário */
+  box-sizing: border-box; /* Inclui bordas no cálculo de largura/altura */
+  border-radius: 2%;
+  margin-bottom: 10px;
+
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem; */
+}

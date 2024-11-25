@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#caixa {
+  margin-top: 2rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+.templates {
+  border: 2px solid #fffafa;
+  background-color: transparent;
+  padding: 28px;
+  box-sizing: border-box;
+  border-radius: 2%;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
